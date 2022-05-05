@@ -3,9 +3,18 @@ package update1;
 public class firstclass {
     String s1;
     int a1;
+    String S;
     firstclass()
     {
 
+    }
+
+    public void setS(String s) {
+        S = s;
+    }
+
+    public String getS() {
+        return S;
     }
 
     public String getS1() {
