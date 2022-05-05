@@ -2,7 +2,7 @@ package update1;
 
 public class firstclass {
     String s1;
-    int a1;
+    string s2;
     firstclass()
     {
 
@@ -16,11 +16,11 @@ public class firstclass {
         this.s1 = s1;
     }
 
-    public int getA1() {
+    public String gets2() {
         return a1;
     }
 
-    public void setA1(int a1) {
+    public void sets2(int a1) {
         this.a1 = a1;
     }
 }
