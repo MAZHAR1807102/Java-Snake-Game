@@ -2,10 +2,18 @@ package update1;
 
 public class classtwo {
     String s1;
-    int a1;
+    String S;
     classtwo()
     {
 
+    }
+
+    public String getS() {
+        return S;
+    }
+
+    public void setS(String s) {
+        S = s;
     }
 
     public String getS1() {
