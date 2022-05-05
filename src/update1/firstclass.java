@@ -4,9 +4,18 @@ public class firstclass {
     String s1;
     int a1;
     String S;
+    float f;
     firstclass()
     {
 
+    }
+
+    public void setF(float f) {
+        this.f = f;
+    }
+
+    public float getF() {
+        return f;
     }
 
     public void setS(String s) {
