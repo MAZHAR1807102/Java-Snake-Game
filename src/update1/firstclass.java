@@ -3,10 +3,18 @@ package update1;
 public class firstclass {
     String s1;
     String s2;
-    
+    int ID;
     firstclass()
     {
 
+    }
+
+    public int getID() {
+        return ID;
+    }
+
+    public void setID(int ID) {
+        this.ID = ID;
     }
 
     public String getS1() {
