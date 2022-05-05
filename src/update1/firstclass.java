@@ -2,7 +2,8 @@ package update1;
 
 public class firstclass {
     String s1;
-    string s2;
+    String s2;
+    
     firstclass()
     {
 
